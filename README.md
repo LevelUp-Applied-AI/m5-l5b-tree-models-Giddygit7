@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Tasks
 
-Complete the 11 functions in `lab_trees.py`. The 7 lab tasks (described in the lab guide page) build on each other:
+Complete the 12 functions in `lab_trees.py`. The 7 lab tasks (described in the lab guide page) build on each other:
 
 1. Load + stratified split
 2. Decision tree + calibration comparison (unbounded vs `max_depth=5`)
@@ -33,7 +33,7 @@ Your PR description must include:
 4. ECE values for DT `max_depth=None` vs DT `max_depth=5`
 5. The ONE tree-vs-linear disagreement sample: feature values, both predicted probabilities, true label, 2–3 sentence structural explanation (interaction? non-monotonic effect? threshold?)
 6. Brief comparison to Week A logistic regression (~3 sentences). **Use the "at the default 0.5 threshold" qualifier** when discussing `class_weight='balanced'`.
-7. Paste your PR URL into TalentLMS → Module 5 Week B → Lab 5B to submit this assignment.
+7. Paste your PR URL into TalentLMS → Module 5 Week B → Applied Lab to submit this assignment.
 
 ---
 
